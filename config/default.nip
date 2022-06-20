@@ -9,9 +9,9 @@
 //================= Utility ================
 //------------------------------------------
 
-[Type] == Gold # [Gold] >= 5000
-[Name] == Scrolloftownportal
-[Name] == Scrollofidentify
+//[Type] == Gold # [Gold] >= 5000
+//[Name] == Scrolloftownportal
+//[Name] == Scrollofidentify
 
 //------------------------------------------------
 //================= Unique Charms ================
@@ -28,7 +28,7 @@
 //[Name] == Greatermanapotion
 [Name] == Superhealingpotion
 [Name] == Supermanapotion
-//[Name] == Rejuvenationpotion
+[Name] == Rejuvenationpotion
 [Name] == Fullrejuvenationpotion
 
 //----------------------------------------
@@ -52,7 +52,7 @@
 //================= Runes ================
 //----------------------------------------
 
-[Name] >= Lumrune && [Name] <= Zodrune
+[Name] >= Lemrune && [Name] <= Zodrune
 //[Name] == Elrune
 //[Name] == Eldrune
 //[Name] == Tirrune
