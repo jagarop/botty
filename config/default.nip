@@ -1298,7 +1298,7 @@
 //[Name] == Lightgauntlets && [Quality] == Unique && [Flag] != Ethereal # [Enhanceddefense] >= 30     // Magefist Perfect
 //[Name] == Gauntlets && [Quality] == Unique && [Flag] != Ethereal # [Enhanceddefense] >= 10     	// Frostburn
 //[Name] == Gauntlets && [Quality] == Unique && [Flag] != Ethereal # [Enhanceddefense] >= 20     	// Frostburn Perfect
-[Name] == Vampirebonegloves && [Quality] == Unique && [Flag] != Ethereal # [Strength] == 10      // Dracul's Grasp
+[Name] == Vampirebonegloves && [Quality] == Unique && [Flag] != Ethereal # [Strength] >= 10      // Dracul's Grasp
 //[Name] == Vampirebonegloves && [Quality] == Unique && [Flag] != Ethereal # [Strength] == 15 && [Lifeleech] >= 10 && [Enhanceddefense] >= 120      // Dracul's Grasp Perfect
 [Name] == Ogregauntlets && [Quality] == Unique && [Flag] != Ethereal # [Enhanceddamage] >= 30 && [Strength] >= 15 && [Plusdefense] >= 170       // Steelrend
 //[Name] == Ogregauntlets && [Quality] == Unique && [Flag] != Ethereal # [Enhanceddamage] >= 60 && [Strength] >= 20 && [Plusdefense] >= 210       // Steelrend Perfect
